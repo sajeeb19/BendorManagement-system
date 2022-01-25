@@ -1,0 +1,101 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.regParentRow {
+  width: 650px;
+}
+.formRow {
+  height: 60px;
+}
+.logform {
+  margin-top: 250px;
+}
+.btnClass {
+  margin-bottom: 26px;
+}
+
+.new {
+  background-color: red;
+}
+.nav-wrapper {
+  height: 250px;
+}
+.newheight {
+  height: 110px;
+}
+.employname {
+  margin-top: -29px;
+}
+.employid {
+  margin-top: -36px;
+}
+.logout {
+  margin-top: -91px;
+  margin-right: 85px;
+}
+.details {
+  margin-left: 150px;
+}
+.fott {
+  background-color: #ee6e73;
+}
+
+.sidebar {
+  height: auto;
+}
+
+.listitem {
+  /* border: 1px solid black; */
+  padding: 5px;
+}
+.forfloat {
+  float: left;
+  margin-top: -1px;
+}
+th,
+td {
+  padding: 2px 5px;
+}
+table {
+  border-collapse: unset;
+}
+.workorderRow {
+  margin-bottom: 7px;
+  margin-left: 0px;
+}
+.foricon {
+  margin-left: 65px;
+  margin-top: 20px;
+}
+i.medium {
+  font-size: 3rem;
+}
+.btnwidth {
+  width: 225px;
+}
+
+label {
+  font-size: 20px;
+}
+
+.formargin {
+  margin-bottom: -15px;
+}
+
+.forbutton {
+  margin-top: 10px;
+}
+.fontsize {
+  font-size: 20px;
+}
+
+.worept {
+  width: 600px;
+  margin-left: 15px;
+}
+.con1 {
+  margin-top: 30px;
+}
